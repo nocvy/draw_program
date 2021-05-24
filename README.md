@@ -1,6 +1,6 @@
 ## draw_program
 Javaで作成したお絵描きツールです  
-`SimpleDraw.java`を実行することで利用できます
+`SimpleDraw.java`を実行で利用できます
 
 使い方 → [manual.pdf](https://github.com/nocvy/draw_program/files/6535572/manual.pdf)
 
